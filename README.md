@@ -12,3 +12,11 @@
 
         NOW YOU BET THAT YOU WILL REACH STEP 60. WHAT IS THE CHANCE THAT YOU WILL WIN THIS BET ?
 
+This shows the step by step way to solve the problem (go from 1 to 9)
+
+File no. 10 Final Code! shows the final solution
+final result1.png 
+      result2.png
+      result3.png    has pictures of the result
+    
+Clearly the odds of winning has been calculated in the range(0,1) using hacker_statistics!
