@@ -27,6 +27,6 @@ np_aw_t = np.transpose(np.array(all_walks))
 # Select last row from np_aw_t: ends
 ends = np_aw_t[-1]  # last sublist that has last step at end of 100 throws
 
-# Plot histogram of ends, display plot
+# Plot histogram of ends, display plot (plot of 500 elements)
 plt.hist(ends)
 plt.show()
