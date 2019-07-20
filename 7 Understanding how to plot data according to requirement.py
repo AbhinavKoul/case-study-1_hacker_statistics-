@@ -1,6 +1,7 @@
 # numpy and matplotlib imported, seed set.
 import numpy as np
 import matplotlib.pyplot as plt
+np.random.seed(123)
 # initialize and populate all_walks
 all_walks = []
 for i in range(10) :

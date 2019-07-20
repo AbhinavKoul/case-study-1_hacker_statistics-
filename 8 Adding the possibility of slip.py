@@ -1,7 +1,7 @@
 # numpy and matplotlib imported, seed set.
 import numpy as np
 import matplotlib.pyplot as plt
-
+np.random.seed(123)
 # Simulate random walk 250 times
 all_walks = []
 for i in range(250) :
